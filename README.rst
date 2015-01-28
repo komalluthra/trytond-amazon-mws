@@ -1,2 +1,6 @@
 trytond-amazon-mws
 ==================
+
+(https://api.travis-ci.org/openlabs/trytond-amazon-mws.svg?branch=develop)( https://travis-ci.org/openlabs/trytond-stock-lot-serial)
+image:: (https://pypip.in/download/openlabs_stock_lot_serial/badge.svg) :target: (https://pypip.in/download/openlabs_amazon_mws/badge.svg). 
+image:: (https://pypip.in/version/openlabs_amazon_mws/badge.svg ):target:( https://pypip.in/version/openlabs_amazon_mws)
